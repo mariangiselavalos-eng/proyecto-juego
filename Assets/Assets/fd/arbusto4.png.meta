@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 00c314e0081ad4346b410ea71c9610b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5330139172314952384
+    second: arbusto4_0
+  - first:
+      213: 2741636664005987170
+    second: arbusto4_1
+  - first:
+      213: -4189530481856019342
+    second: arbusto4_2
+  - first:
+      213: 2801689048322377152
+    second: arbusto4_3
+  - first:
+      213: 7011674575000203686
+    second: arbusto4_4
+  - first:
+      213: -2033885599144048541
+    second: arbusto4_5
+  - first:
+      213: -1606042186439305568
+    second: arbusto4_6
+  - first:
+      213: -4675398862054448033
+    second: arbusto4_7
+  - first:
+      213: -966226568850582933
+    second: arbusto4_8
+  - first:
+      213: 6389760988936984809
+    second: arbusto4_9
+  - first:
+      213: -540276538766368334
+    second: arbusto4_10
+  - first:
+      213: -8014721608218410529
+    second: arbusto4_11
+  - first:
+      213: -7967930063643563475
+    second: arbusto4_12
+  - first:
+      213: 7962803216987903719
+    second: arbusto4_13
+  - first:
+      213: 6736071506581658634
+    second: arbusto4_14
+  - first:
+      213: -8258981440589638480
+    second: arbusto4_15
+  - first:
+      213: -8470818505307985369
+    second: arbusto4_16
+  - first:
+      213: -3821534094818049577
+    second: arbusto4_17
+  - first:
+      213: -2222202577559339160
+    second: arbusto4_18
+  - first:
+      213: -272173471260866201
+    second: arbusto4_19
+  - first:
+      213: 1606919696470530866
+    second: arbusto4_20
+  - first:
+      213: 2509504716218432335
+    second: arbusto4_21
+  - first:
+      213: 4991345133029819663
+    second: arbusto4_22
+  - first:
+      213: 5573483450230044191
+    second: arbusto4_23
+  - first:
+      213: 3063606154816023932
+    second: arbusto4_24
+  - first:
+      213: 3218305476713502910
+    second: arbusto4_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arbusto4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3840
+        height: 2160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c23a31465578f940800000000000000
+      internalID: 5330139172314952384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 26885495cd1923f4bb47b5a1ef69f3d2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":3840.0,"y":2160.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      arbusto4_0: 5330139172314952384
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
